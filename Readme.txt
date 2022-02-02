@@ -246,7 +246,6 @@ Proto Recv-Q Send-Q Local Address           Foreign Address         State       
 tcp        0      0 0.0.0.0:111             0.0.0.0:*               LISTEN      7837/rpcbind
 tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      7491/sshd
 tcp        0      0 127.0.0.1:25            0.0.0.0:*               LISTEN      7672/master
-tcp        0      0 10.0.2.15:22            10.0.2.2:5773           ESTABLISHED 1412/sshd: vagrant
 tcp6       0      0 :::111                  :::*                    LISTEN      7837/rpcbind
 tcp6       0      0 :::80                   :::*                    LISTEN      4540/httpd
 tcp6       0      0 :::8080                 :::*                    LISTEN      4023/httpd
